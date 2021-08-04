@@ -321,6 +321,7 @@ a{
     background: #ededed!important;
     box-shadow:  5px 5px 13px #e4e4e4,
              -5px -5px 13px #f6f6f6!important;
+             transition: ease-in 3s,!important;
             }
 
 .icon{
@@ -337,5 +338,11 @@ a{
              margin: 5px 0;
              border: 1px solid rgb(186, 188, 194);
             border-radius: 5px;
+
+
+}
+
+.collapsible{
+   
 
 }
