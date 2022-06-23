@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@ashraful-19 
+ashraful-19
+/
+quizpoll1.github.io
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+quizpoll1.github.io/style.css
+@ashraful-19
+ashraful-19 Update style.css
+Latest commit a15087c on Aug 4, 2021
+ History
+ 1 contributor
+348 lines (231 sloc)  4.99 KB
+
 *{
     padding: 0;
     margin: 0;
@@ -159,19 +188,12 @@ div.slide{
         justify-content:space-between ;
         display: none;
     }
-
 div.mid{
    
    
     
     
-
 }
-
-
-
-
-
     
   }
   @media only screen and (max-width: 768px) {
@@ -181,7 +203,6 @@ div.mid{
         flex-direction: column;
         
         height: 743px;
-
     }
         .svgimg{
             height: 305px;
@@ -194,17 +215,10 @@ div.mid{
             bottom: 111px;
             font-size: 13px;
         }
-
-
     
     }
       }
       
-
-
-
-
-
  */
 
 
@@ -346,3 +360,15 @@ a{
    
 
 }
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
