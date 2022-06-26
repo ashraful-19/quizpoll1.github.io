@@ -371,7 +371,7 @@ a{
 
 }
 .bottom{
-    padding-top: 8px;
+    padding-top: 1px;
 
     display: flex;
     text-align:center;
