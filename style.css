@@ -356,10 +356,31 @@ a{
 
 }
 
-.collapsible{
+
+.Bottom-nav{
+    z-index: 455;
+    position: fixed;
+    bottom: 0px;
+    border: none!important;
+    background: rgb(233, 233, 233);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    width: 100%;
+    text-align: center;
+    height: 60px;
+
+
+}
+.bottom{
+    padding-top: 8px;
+
+    display: flex;
+    text-align:center;
+    justify-content: space-around;
    
 
 }
+
+
 © 2022 GitHub, Inc.
 Terms
 Privacy
