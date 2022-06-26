@@ -381,8 +381,10 @@ a{
 
 }
 
-p.bottom{
-font-size: 10px;
+.bottom p{
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
 }
 
 © 2022 GitHub, Inc.
