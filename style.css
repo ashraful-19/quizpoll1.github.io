@@ -70,7 +70,7 @@ main1{
     z-index: 3;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    text-align: center;
 
 }
 .link1{
@@ -376,10 +376,14 @@ a{
     display: flex;
     text-align:center;
     justify-content: space-around;
+	
    
 
 }
 
+p.bottom{
+font-size: 10px;
+}
 
 © 2022 GitHub, Inc.
 Terms
