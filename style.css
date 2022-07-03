@@ -387,6 +387,14 @@ a{
     padding: 0px;
 }
 
+h6.mid-align{
+    display: block;
+    margin-left: 55px;
+    color: rgba(0, 53, 212, 0.772);
+    font-weight: 100;
+    font-size: 20px;
+}
+
 © 2022 GitHub, Inc.
 Terms
 Privacy
